@@ -1,0 +1,13 @@
+React Forms
+===========
+React form are little different than the HTML forms.
+In HTML form by default navigates to a new page when user submits a form.
+For react, controlled components are recommended though HTML forms works fine in react as well
+
+Elements of HTML form:
+======================
+input, textarea, select
+HTML - Each element has its own state and updated based on user input
+React - Mutable state is updated using hook setState()
+
+
